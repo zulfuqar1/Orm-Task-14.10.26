@@ -1,0 +1,15 @@
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\bin\Debug\net10.0\Orm Task 14.10.26.exe
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\bin\Debug\net10.0\Orm Task 14.10.26.deps.json
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\bin\Debug\net10.0\Orm Task 14.10.26.runtimeconfig.json
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\bin\Debug\net10.0\Orm Task 14.10.26.dll
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\bin\Debug\net10.0\Orm Task 14.10.26.pdb
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.AssemblyInfoInputs.cache
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.AssemblyInfo.cs
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.csproj.CoreCompileInputs.cache
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.dll
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\refint\Orm Task 14.10.26.dll
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.pdb
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task 14.10.26.genruntimeconfig.cache
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\ref\Orm Task 14.10.26.dll
+C:\Users\zulfu\Desktop\Z's\Code\Back-End tasks\PA303\Orm Task 14.10.26\Orm Task 14.10.26\obj\Debug\net10.0\Orm Task.B2D59262.Up2Date
