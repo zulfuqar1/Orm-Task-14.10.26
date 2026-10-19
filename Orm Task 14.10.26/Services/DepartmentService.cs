@@ -47,4 +47,22 @@ public class DepartmentService
             .AsNoTracking()
             .ToList();
     }
+
+
+    public void UpdateDepartment(int id, string name, string? description)
+    {
+        Department department = _db.Departments.Find(id);
+
+        if (department == null)
+            throw new Exception("Department tapılmadı.");
+
+        department.Name = name;
+        department.Description = description;
+
+        _db.SaveChanges();
+    }
+
+
+
+
 }

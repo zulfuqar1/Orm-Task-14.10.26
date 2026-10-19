@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\deletebehaviorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\deletebehaviorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +19,24 @@
       "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\universityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\entitystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\entitystateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\deletebehaviorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\deletebehaviorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|solutionrelative:orm task 14.10.26\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40947F6-1DC2-0341-BCD8-B36BCD8006B5}|Orm Task 14.10.26\\Orm Task 14.10.26.csproj|c:\\users\\zulfu\\desktop\\z\u0027s\\code\\back-end tasks\\pa303\\orm task 14.10.26\\orm task 14.10.26\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 564,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,28 +118,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnrollmentService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EnrollmentService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\EnrollmentService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EnrollmentService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\EnrollmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\TeacherService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\TeacherService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T13:20:20.034Z",
+              "WhenOpened": "2026-10-19T13:19:36.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\StudentService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\StudentService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAiwHEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UniversityService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\UniversityService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\UniversityService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\UniversityService.cs*",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\UniversityService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T13:20:04.646Z",
+              "WhenOpened": "2026-10-16T14:23:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\CourseService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\CourseService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:19:46.072Z",
               "EditorCaption": ""
             },
             {
@@ -150,87 +163,74 @@
               "RelativeDocumentMoniker": "Orm Task 14.10.26\\Program.cs",
               "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Program.cs",
               "RelativeToolTip": "Orm Task 14.10.26\\Program.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAiwI4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwJQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T17:07:58.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DeleteBehaviorService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowGcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:54:13.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CourseService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\CourseService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\CourseService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\CourseService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\CourseService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\StudentService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\StudentService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T13:19:46.072Z",
+              "WhenOpened": "2026-10-19T13:20:04.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\TeacherService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\TeacherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T13:19:36.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DepartmentService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T13:19:15.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "EntityStateService.cs",
               "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EntityStateService.cs",
               "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\EntityStateService.cs",
               "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EntityStateService.cs",
               "RelativeToolTip": "Orm Task 14.10.26\\Services\\EntityStateService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAwIkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAxwHwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T14:24:09.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UniversityService.cs",
-              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\UniversityService.cs",
-              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\UniversityService.cs",
-              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\UniversityService.cs",
-              "RelativeToolTip": "Orm Task 14.10.26\\Services\\UniversityService.cs",
-              "ViewState": "AgIAAHUBAAAAAAAAAAAYwKgBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:23:58.271Z",
+              "WhenOpened": "2026-10-19T13:20:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteBehaviorService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\DeleteBehaviorService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:54:13.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Orm Task 14.10.26\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\zulfu\\Desktop\\Z\u0027s\\Code\\Back-End tasks\\PA303\\Orm Task 14.10.26\\Orm Task 14.10.26\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Orm Task 14.10.26\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:19:15.266Z",
               "EditorCaption": ""
             },
             {
@@ -243,8 +243,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Configurations\\CourseConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:20:16.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:20:16.638Z"
             },
             {
               "$type": "Document",
@@ -256,8 +255,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Data\\UniversityDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:23:42.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:23:42.678Z"
             },
             {
               "$type": "Document",
@@ -269,8 +267,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:14:19.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T17:14:19.526Z"
             },
             {
               "$type": "Document",
@@ -282,8 +279,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:14:33.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T17:14:33.662Z"
             },
             {
               "$type": "Document",
@@ -295,8 +291,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Models\\Enrollment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:14:41.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T17:14:41.654Z"
             },
             {
               "$type": "Document",
@@ -308,8 +303,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:14:06.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T17:14:06.88Z"
             },
             {
               "$type": "Document",
@@ -321,8 +315,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T17:14:26.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T17:14:26.388Z"
             },
             {
               "$type": "Document",
@@ -334,8 +327,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Data\\DbInitializer.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:23:48.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:23:48.087Z"
             },
             {
               "$type": "Document",
@@ -347,8 +339,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Configurations\\TeacherConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:20:07.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:20:07.27Z"
             },
             {
               "$type": "Document",
@@ -360,8 +351,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Configurations\\StudentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:20:25.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:20:25.534Z"
             },
             {
               "$type": "Document",
@@ -373,8 +363,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Configurations\\EnrollmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:22:02.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:22:02.816Z"
             },
             {
               "$type": "Document",
@@ -386,8 +375,7 @@
               "RelativeToolTip": "Orm Task 14.10.26\\Configurations\\DepartmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T14:20:01.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T14:20:01.352Z"
             },
             {
               "$type": "Document",

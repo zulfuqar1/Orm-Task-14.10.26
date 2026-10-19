@@ -41,4 +41,22 @@ public class EnrollmentService
 
         return enrollment;
     }
+
+
+
+    public Enrollment UpdateEnrollment(int studentId, int courseId, decimal? grade)
+    {
+        Enrollment enrollment = _db.Enrollments.FirstOrDefault(e =>
+            e.StudentId == studentId && e.CourseId == courseId)
+            ?? throw new ArgumentException("Qeydiyyat tapılmadı.");
+
+        if (grade < 0 || grade > 100)
+            throw new ArgumentException("Qiymət 0-100 arasında olmalıdır.");
+
+        enrollment.Grade = grade;
+
+        _db.SaveChanges();
+
+        return enrollment;
+    }
 }

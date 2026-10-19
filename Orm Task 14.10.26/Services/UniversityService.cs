@@ -6,6 +6,10 @@ using UniversityManagementSystem.Data;
 namespace UniversityManagementSystem.Services;
 
 public class UniversityService
+
+//umumi service classi yaradilib, butun methodlar burda yazilib, her bir methodda lazim olan entityler yoxlanilir ve sonra database-e elave olunur.
+//layihe icinde istifade edilmirler 
+//ilk versiyada butun Crud emeliyatlari burda sitifade olunurdu daha sonradan her biri ayir servisde yazdim.
 {
     public static void AddDepartment()
     {
@@ -32,8 +36,6 @@ public class UniversityService
         db.SaveChanges();
         Console.WriteLine("Department added.");
     }
-
-
     public static void AddTeacher()
     {
         using var db = new UniversityDbContext();
@@ -64,8 +66,6 @@ public class UniversityService
         db.SaveChanges();
         Console.WriteLine("Teacher added.");
     }
-
-
     public static void AddCourse()
     {
         using var db = new UniversityDbContext();
@@ -109,7 +109,6 @@ public class UniversityService
         db.SaveChanges();
         Console.WriteLine("Course added.");
     }
-
     public static void AddStudent()
     {
         using var db = new UniversityDbContext();
@@ -137,7 +136,6 @@ public class UniversityService
         db.SaveChanges();
         Console.WriteLine("Student added.");
     }
-
     public static void EnrollStudent()
     {
         using var db = new UniversityDbContext();
@@ -175,7 +173,6 @@ public class UniversityService
         db.SaveChanges();
         Console.WriteLine("Student enrolled.");
     }
-
     public static void ShowDepartmentsWithTeachers()
     {
         using var db = new UniversityDbContext();
@@ -192,7 +189,6 @@ public class UniversityService
                 Console.WriteLine($"  {t.FullName} | {t.Email}");
         }
     }
-
     public static void ShowDepartmentsWithCoursesAndTeachers()
     {
         using var db = new UniversityDbContext();
@@ -212,7 +208,6 @@ public class UniversityService
                     $"Teacher: {c.Teacher.FullName}");
         }
     }
-
     public static void ShowStudentsWithCourses()
     {
         using var db = new UniversityDbContext();
@@ -233,7 +228,6 @@ public class UniversityService
                     $"Grade: {e.Grade?.ToString() ?? "Not graded"}");
         }
     }
-
     public static void ShowCoursesWithStudents()
     {
         using var db = new UniversityDbContext();
@@ -253,7 +247,6 @@ public class UniversityService
                     $"Grade: {e.Grade?.ToString() ?? "Not graded"}");
         }
     }
-
     public static void UpdateStudent()
     {
         using var db = new UniversityDbContext();
@@ -281,7 +274,6 @@ public class UniversityService
 
         Console.WriteLine("Student updated.");
     }
-
     public static void DeleteStudent()
     {
         using var db = new UniversityDbContext();
@@ -304,7 +296,6 @@ public class UniversityService
         Console.WriteLine(
             "Student and related enrollments deleted.");
     }
-
     public static void TestDeleteBehavior()
     {
         Console.WriteLine("1. Delete Department");
@@ -370,7 +361,6 @@ public class UniversityService
             Console.WriteLine($"Delete failed: {ex.Message}");
         }
     }
-
     public static void ShowChangeTracker()
     {
         using var db = new UniversityDbContext();

@@ -42,4 +42,30 @@ public class TeacherService
             .OrderBy(t => t.Id)
             .ToList();
     }
+
+
+
+    public bool Update(int id, string fullName, string email, int departmentId)
+    {
+        Teacher? teacher = _db.Teachers.Find(id);
+
+        if (teacher == null)
+            return false;
+
+        if (string.IsNullOrWhiteSpace(fullName))
+            throw new ArgumentException("Müəllim adı boş ola bilməz.");
+
+        if (!_db.Departments.Any(d => d.Id == departmentId))
+            throw new ArgumentException("Department tapılmadı.");
+
+        teacher.FullName = fullName;
+        teacher.Email = email;
+        teacher.DepartmentId = departmentId;
+
+        _db.SaveChanges();
+
+        return true;
+    }
+
+
 }

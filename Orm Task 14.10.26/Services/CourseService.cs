@@ -68,4 +68,44 @@ public class CourseService
             .OrderBy(c => c.Id)
             .ToList();
     }
+
+
+    public Course UpdateCourse(
+    int id,
+    string name,
+    int credit,
+    int departmentId,
+    int teacherId)
+    {
+        Course course = _db.Courses.Find(id)
+            ?? throw new ArgumentException("Kurs tapılmadı.");
+
+        if (string.IsNullOrWhiteSpace(name))
+            throw new ArgumentException("Kurs adı boş ola bilməz.");
+
+        if (credit < 1 || credit > 10)
+            throw new ArgumentException("Credit 1-10 arasında olmalıdır.");
+
+        if (!_db.Departments.Any(d => d.Id == departmentId))
+            throw new ArgumentException("Department tapılmadı.");
+
+        if (!_db.Teachers.Any(t =>
+                t.Id == teacherId &&
+                t.DepartmentId == departmentId))
+        {
+            throw new ArgumentException(
+                "Müəllim tapılmadı və ya həmin department-ə aid deyil.");
+        }
+
+        course.Name = name;
+        course.Credit = credit;
+        course.DepartmentId = departmentId;
+        course.TeacherId = teacherId;
+
+        _db.SaveChanges();
+
+        return course;
+    }
+
+
 }
