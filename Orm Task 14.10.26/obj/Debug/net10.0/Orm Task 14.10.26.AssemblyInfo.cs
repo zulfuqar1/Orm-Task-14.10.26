@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orm Task 14.10.26")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2a22783583a1c3566e51c6fd58539d9ea6bbe9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdfe9519757571286434e122a5f5184878622b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orm Task 14.10.26")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orm Task 14.10.26")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
